@@ -1,0 +1,6 @@
+arp -a
+---> untuk menampilkan daftar tabel ARP(Address Resolution Protocol) yang memuat
+     informasi pemetaan ip address dan mac address
+##################################################
+arp -d
+---> digunakan untuk clear / menghapus daftar table ARP
